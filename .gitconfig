@@ -2,4 +2,17 @@
 	name = voodeng
 	email = voodeng@gmail.com
 [core]
-	quotepath = false
+	autocrlf = true
+	excludesfile = C:\\Users\\voodeng\\.gitignore_global
+[gui]
+     encoding = utf-8
+[i18n]
+     commitencoding = gbk
+[svn]
+     pathnameencoding = gbk
+[credential]
+[difftool "sourcetree"]
+	cmd = 'D:/Applications/Beyond Compare 3/BComp.exe' \"$LOCAL\" \"$REMOTE\"
+[mergetool "sourcetree"]
+	cmd = 'D:/Applications/Beyond Compare 3/BComp.exe' \"$LOCAL\" \"$REMOTE\" \"$BASE\" \"$MERGED\"
+	trustExitCode = true
