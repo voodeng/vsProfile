@@ -1,0 +1,38 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"IMESupport"
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"AutoFileName",
+		"Base16 Color Schemes",
+		"BracketHighlighter",
+		"Clipboard Manager",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"Dotfiles Syntax Highlighting",
+		"EditorConfig",
+		"Emmet",
+		"EncodingHelper",
+		"Evernote",
+		"FileDiffs",
+		"FileHeader",
+		"FileModifyStatus",
+		"Glue",
+		"Handlebars",
+		"IMESupport",
+		"JsFormat",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Modific",
+		"Package Control",
+		"rsub",
+		"Seti_UI",
+		"SideBarEnhancements",
+		"Vintageous"
+	]
+}

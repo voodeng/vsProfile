@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Contents</key>
+	<dict>
+		<key>.DS_Store</key>
+		<dict>
+			<key>File ID</key>
+			<string>454408</string>
+			<key>Predicted Process Time</key>
+			<real>1.7976931348623157e+308</real>
+		</dict>
+		<key>.bashrc</key>
+		<dict>
+			<key>File ID</key>
+			<string>1619869</string>
+			<key>Predicted Process Time</key>
+			<real>1.7976931348623157e+308</real>
+		</dict>
+		<key>Build</key>
+		<dict>
+			<key>File ID</key>
+			<string>1851110</string>
+			<key>Predicted Process Time</key>
+			<real>1.7976931348623157e+308</real>
+		</dict>
+		<key>Build.zip</key>
+		<dict>
+			<key>File ID</key>
+			<string>1850889</string>
+			<key>Predicted Process Time</key>
+			<real>1.7976931348623157e+308</real>
+		</dict>
+		<key>DSDT 1125.aml</key>
+		<dict>
+			<key>File ID</key>
+			<string>972240</string>
+			<key>Predicted Process Time</key>
+			<real>1.7976931348623157e+308</real>
+		</dict>
+		<key>DSDT 下午8.23.09.aml</key>
+		<dict>
+			<key>File ID</key>
+			<string>1008644</string>
+			<key>Predicted Process Time</key>
+			<real>1.7976931348623157e+308</real>
+		</dict>
+		<key>DSDT.aml</key>
+		<dict>
+			<key>File ID</key>
+			<string>972225</string>
+			<key>Predicted Process Time</key>
+			<real>1.7976931348623157e+308</real>
+		</dict>
+		<key>DSDTcando 2.aml</key>
+		<dict>
+			<key>File ID</key>
+			<string>1008401</string>
+			<key>Predicted Process Time</key>
+			<real>1.7976931348623157e+308</real>
+		</dict>
+		<key>DSDTcando.aml</key>
+		<dict>
+			<key>File ID</key>
+			<string>1008400</string>
+			<key>Predicted Process Time</key>
+			<real>1.7976931348623157e+308</real>
+		</dict>
+		<key>EFI</key>
+		<dict>
+			<key>File ID</key>
+			<string>964368</string>
+			<key>Predicted Process Time</key>
+			<real>1.7976931348623157e+308</real>
+		</dict>
+		<key>HackStore.app</key>
+		<dict>
+			<key>File ID</key>
+			<string>1623240</string>
+			<key>Predicted Process Time</key>
+			<real>1.7976931348623157e+308</real>
+		</dict>
+		<key>HackStore.zip</key>
+		<dict>
+			<key>File ID</key>
+			<string>1623091</string>
+			<key>Predicted Process Time</key>
+			<real>1.7976931348623157e+308</real>
+		</dict>
+		<key>Hazel3.3.5 2.zip</key>
+		<dict>
+			<key>File ID</key>
+			<string>1876029</string>
+			<key>Predicted Process Time</key>
+			<real>1.7976931348623157e+308</real>
+		</dict>
+		<key>Hazel3.3.5 上午12.02.18.zip</key>
+		<dict>
+			<key>File ID</key>
+			<string>1876013</string>
+			<key>Predicted Process Time</key>
+			<real>1.7976931348623157e+308</real>
+		</dict>
+		<key>Hazel3.3.5-1.zip</key>
+		<dict>
+			<key>File ID</key>
+			<string>1876125</string>
+			<key>Predicted Process Time</key>
+			<real>1.7976931348623157e+308</real>
+		</dict>
+		<key>Hazel3.3.5.zip</key>
+		<dict>
+			<key>File ID</key>
+			<string>1875395</string>
+			<key>Predicted Process Time</key>
+			<real>1.7976931348623157e+308</real>
+		</dict>
+		<key>Hazel3.3.5.zip.cpgz</key>
+		<dict>
+			<key>File ID</key>
+			<string>1876019</string>
+			<key>Predicted Process Time</key>
+			<real>1.7976931348623157e+308</real>
+		</dict>
+		<key>Hello World.app</key>
+		<dict>
+			<key>File ID</key>
+			<string>1463138</string>
+			<key>Predicted Process Time</key>
+			<real>1.7976931348623157e+308</real>
+		</dict>
+		<key>IO80211Family.kext</key>
+		<dict>
+			<key>File ID</key>
+			<string>453800</string>
+			<key>Predicted Process Time</key>
+			<real>1.7976931348623157e+308</real>
+		</dict>
+		<key>Kext_Backup</key>
+		<dict>
+			<key>File ID</key>
+			<string>454330</string>
+			<key>Predicted Process Time</key>
+			<real>1.7976931348623157e+308</real>
+		</dict>
+		<key>NetworkInterfaces.plist</key>
+		<dict>
+			<key>File ID</key>
+			<string>448775</string>
+			<key>Predicted Process Time</key>
+			<real>1.7976931348623157e+308</real>
+		</dict>
+		<key>Paw.app</key>
+		<dict>
+			<key>File ID</key>
+			<string>1856585</string>
+			<key>Predicted Process Time</key>
+			<real>1.7976931348623157e+308</real>
+		</dict>
+		<key>Screen Shot 2015-11-27 at 上午1.19.06.png</key>
+		<dict>
+			<key>File ID</key>
+			<string>1124744</string>
+			<key>Predicted Process Time</key>
+			<real>1.7976931348623157e+308</real>
+		</dict>
+		<key>Squirrel副本.pkg</key>
+		<dict>
+			<key>File ID</key>
+			<string>448162</string>
+			<key>Predicted Process Time</key>
+			<real>1.7976931348623157e+308</real>
+		</dict>
+		<key>Sublime Text 3</key>
+		<dict>
+			<key>File ID</key>
+			<string>1013160</string>
+			<key>Predicted Process Time</key>
+			<real>1.7976931348623157e+308</real>
+		</dict>
+		<key>User</key>
+		<dict>
+			<key>File ID</key>
+			<string>1013162</string>
+			<key>Predicted Process Time</key>
+			<real>1.7976931348623157e+308</real>
+		</dict>
+		<key>iOS_Dev.zip</key>
+		<dict>
+			<key>File ID</key>
+			<string>1129176</string>
+			<key>Predicted Process Time</key>
+			<real>1.7976931348623157e+308</real>
+		</dict>
+		<key>java-1.8.0_66-b17.dmg</key>
+		<dict>
+			<key>File ID</key>
+			<string>1624783</string>
+			<key>Predicted Process Time</key>
+			<real>1.7976931348623157e+308</real>
+		</dict>
+		<key>java-1.8.0_66-b17.dmg.incomplete</key>
+		<dict>
+			<key>File ID</key>
+			<string>1600469</string>
+			<key>Predicted Process Time</key>
+			<real>1.7976931348623157e+308</real>
+		</dict>
+		<key>sf</key>
+		<dict>
+			<key>File ID</key>
+			<string>447524</string>
+			<key>Predicted Process Time</key>
+			<real>1.7976931348623157e+308</real>
+		</dict>
+		<key>sublimetext.dmg</key>
+		<dict>
+			<key>File ID</key>
+			<string>1858584</string>
+			<key>Predicted Process Time</key>
+			<real>1.7976931348623157e+308</real>
+		</dict>
+		<key>未确认 891238.crdownload</key>
+		<dict>
+			<key>File ID</key>
+			<string>1457507</string>
+			<key>Predicted Process Time</key>
+			<real>1.7976931348623157e+308</real>
+		</dict>
+		<key>未确认 983165.crdownload</key>
+		<dict>
+			<key>File ID</key>
+			<string>1760100</string>
+			<key>Predicted Process Time</key>
+			<real>1.7976931348623157e+308</real>
+		</dict>
+	</dict>
+	<key>File Map</key>
+	<dict>
+		<key>1008400</key>
+		<dict>
+			<key>Name</key>
+			<string>DSDTcando.aml</string>
+		</dict>
+		<key>1008401</key>
+		<dict>
+			<key>Name</key>
+			<string>DSDTcando 2.aml</string>
+		</dict>
+		<key>1008644</key>
+		<dict>
+			<key>Name</key>
+			<string>DSDT 下午8.23.09.aml</string>
+		</dict>
+		<key>1013160</key>
+		<dict>
+			<key>Name</key>
+			<string>Sublime Text 3</string>
+		</dict>
+		<key>1013162</key>
+		<dict>
+			<key>Name</key>
+			<string>User</string>
+		</dict>
+		<key>1124744</key>
+		<dict>
+			<key>Name</key>
+			<string>Screen Shot 2015-11-27 at 上午1.19.06.png</string>
+		</dict>
+		<key>1129176</key>
+		<dict>
+			<key>Name</key>
+			<string>iOS_Dev.zip</string>
+		</dict>
+		<key>1457507</key>
+		<dict>
+			<key>Name</key>
+			<string>未确认 891238.crdownload</string>
+		</dict>
+		<key>1463138</key>
+		<dict>
+			<key>Name</key>
+			<string>Hello World.app</string>
+		</dict>
+		<key>1600469</key>
+		<dict>
+			<key>Name</key>
+			<string>java-1.8.0_66-b17.dmg.incomplete</string>
+		</dict>
+		<key>1619869</key>
+		<dict>
+			<key>Name</key>
+			<string>.bashrc</string>
+		</dict>
+		<key>1623091</key>
+		<dict>
+			<key>Name</key>
+			<string>HackStore.zip</string>
+		</dict>
+		<key>1623240</key>
+		<dict>
+			<key>Name</key>
+			<string>HackStore.app</string>
+		</dict>
+		<key>1624783</key>
+		<dict>
+			<key>Name</key>
+			<string>java-1.8.0_66-b17.dmg</string>
+		</dict>
+		<key>1760100</key>
+		<dict>
+			<key>Name</key>
+			<string>未确认 983165.crdownload</string>
+		</dict>
+		<key>1850889</key>
+		<dict>
+			<key>Name</key>
+			<string>Build.zip</string>
+		</dict>
+		<key>1851110</key>
+		<dict>
+			<key>Name</key>
+			<string>Build</string>
+		</dict>
+		<key>1856585</key>
+		<dict>
+			<key>Name</key>
+			<string>Paw.app</string>
+		</dict>
+		<key>1858584</key>
+		<dict>
+			<key>Name</key>
+			<string>sublimetext.dmg</string>
+		</dict>
+		<key>1875395</key>
+		<dict>
+			<key>Name</key>
+			<string>Hazel3.3.5.zip</string>
+		</dict>
+		<key>1876013</key>
+		<dict>
+			<key>Name</key>
+			<string>Hazel3.3.5 上午12.02.18.zip</string>
+		</dict>
+		<key>1876019</key>
+		<dict>
+			<key>Name</key>
+			<string>Hazel3.3.5.zip.cpgz</string>
+		</dict>
+		<key>1876029</key>
+		<dict>
+			<key>Name</key>
+			<string>Hazel3.3.5 2.zip</string>
+		</dict>
+		<key>1876125</key>
+		<dict>
+			<key>Name</key>
+			<string>Hazel3.3.5-1.zip</string>
+		</dict>
+		<key>447524</key>
+		<dict>
+			<key>Name</key>
+			<string>sf</string>
+		</dict>
+		<key>448162</key>
+		<dict>
+			<key>Name</key>
+			<string>Squirrel副本.pkg</string>
+		</dict>
+		<key>448775</key>
+		<dict>
+			<key>Name</key>
+			<string>NetworkInterfaces.plist</string>
+		</dict>
+		<key>453800</key>
+		<dict>
+			<key>Name</key>
+			<string>IO80211Family.kext</string>
+		</dict>
+		<key>454330</key>
+		<dict>
+			<key>Name</key>
+			<string>Kext_Backup</string>
+		</dict>
+		<key>454408</key>
+		<dict>
+			<key>Name</key>
+			<string>.DS_Store</string>
+		</dict>
+		<key>964368</key>
+		<dict>
+			<key>Name</key>
+			<string>EFI</string>
+		</dict>
+		<key>972225</key>
+		<dict>
+			<key>Name</key>
+			<string>DSDT.aml</string>
+		</dict>
+		<key>972240</key>
+		<dict>
+			<key>Name</key>
+			<string>DSDT 1125.aml</string>
+		</dict>
+	</dict>
+	<key>Last Poll Time</key>
+	<date>2015-11-30T16:04:50Z</date>
+	<key>Version</key>
+	<integer>3</integer>
+</dict>
+</plist>

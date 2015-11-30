@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>children</key>
+	<array>
+		<dict>
+			<key>fileReferenceURL</key>
+			<string>file:///.file/id=6571367.1077361/</string>
+			<key>fileURL</key>
+			<string>file:///Users/voodeng/Documents/Code/zcf_fe/</string>
+			<key>lastOpenedDate</key>
+			<real>1448637269.581054</real>
+			<key>name</key>
+			<string>zcf_fe</string>
+			<key>type</key>
+			<integer>2</integer>
+			<key>valid</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>fileReferenceURL</key>
+			<string>file:///.file/id=6571367.1121171/</string>
+			<key>fileURL</key>
+			<string>file:///Users/voodeng/Documents/Code/Fiz/Fiz/</string>
+			<key>lastOpenedDate</key>
+			<real>1448637255.167568</real>
+			<key>name</key>
+			<string>Fiz</string>
+			<key>type</key>
+			<integer>2</integer>
+			<key>valid</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>fileReferenceURL</key>
+			<string>file:///.file/id=6571367.1615911/</string>
+			<key>fileURL</key>
+			<string>file:///Users/voodeng/Documents/Code/zcfh5/</string>
+			<key>lastOpenedDate</key>
+			<real>0.0</real>
+			<key>name</key>
+			<string>zcfh5</string>
+			<key>type</key>
+			<integer>2</integer>
+			<key>valid</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>expanded</key>
+	<integer>1</integer>
+	<key>name</key>
+	<string>Repositories</string>
+	<key>type</key>
+	<integer>3</integer>
+</dict>
+</plist>
